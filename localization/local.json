@@ -1,0 +1,9 @@
+{
+  "PATH_MINIIMAGENET": "/local/home/david/Remote/mini-imagenet",
+  "N_CLS_MINIIMAGENET": 64,
+
+  "PATH_CUB": "/local/home/david/Downloads/cub/CUB_200_2011",
+  "N_CLS_CUB": 100,
+
+  "PATH_BASE": "/local/home/david/Remote/VibNet_Pytorch/"
+}
